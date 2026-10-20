@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "applicationId": "com.partely",
+  "channel": "stable",
+  "versionCode": 0,
+  "versionName": "<version>",
+  "downloadUrl": "https://github.com/<owner>/partely-releases/releases/download/<tag>/<asset>.apk",
+  "sha256": "<64-lowercase-hex-of-the-published-apk>",
+  "releaseNotes": "<what changed>",
+  "mandatory": false
+}
