@@ -3,10 +3,10 @@
   "platform": "android",
   "applicationId": "com.partely",
   "channel": "stable",
-  "versionCode": 2,
-  "versionName": "1.1",
-  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/ota-test-vc2/partely-ota-test-vc2.apk",
-  "sha256": "ee53960eafca82fdb3d0ec388b5ec2d51917b82f8315881c5f13100168dc5ac6",
-  "releaseNotes": "OTA test build. Not an official release.",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/ota-test-vc3/partely-ota-test-vc3.apk",
+  "sha256": "1365f436a485135598fc02382ba80fd0ea050fb5b04f6cf0c2067267a62a06db",
+  "releaseNotes": "Phase B update notifications and download progress.",
   "mandatory": false
 }
