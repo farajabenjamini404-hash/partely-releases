@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "applicationId": "com.partely",
+  "channel": "stable",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.3/partely-v1.3.apk",
+  "sha256": "<64-lowercase-hex-of-the-published-apk>",
+  "releaseNotes": "What changed in 1.3.",
+  "mandatory": false
+}
