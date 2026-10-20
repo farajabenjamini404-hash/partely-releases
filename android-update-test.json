@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "applicationId": "com.partely",
+  "channel": "stable",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/ota-test-vc2/partely-ota-test-vc2.apk",
+  "sha256": "ee53960eafca82fdb3d0ec388b5ec2d51917b82f8315881c5f13100168dc5ac6",
+  "releaseNotes": "OTA test build. Not an official release.",
+  "mandatory": false
+}
