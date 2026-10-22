@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "applicationId": "com.partely.desktop",
+  "channel": "stable",
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/windows-ota-test-v1.0.6/Partely-1.0.6.msi",
+  "sha256": "824e4cc09d32fd4da3017f5334f92ee8fc54bfbb9c35d2ae55b2ea95c4d1d15b",
+  "releaseNotes": "- Restored native Windows title bar controls and keyboard input\n- Touch scrolling now uses the documented Windows subclassing API\n- Windows in-app update support\n- Bug fixes and performance improvements.",
+  "mandatory": false
+}
