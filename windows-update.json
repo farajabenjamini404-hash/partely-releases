@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "applicationId": "com.partely.desktop",
+  "channel": "stable",
+  "version": "1.0.15",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.4.9/Partely-1.0.15.msi",
+  "sha256": "5adec44862478cc9ca86ad5a38f6baa892e38b434d978bddc3fa827e23b14d01",
+  "releaseNotes": "Partely 1.4.9 for Android and 1.0.15 for Windows\n\n- Reliability and usability improvements across sales, customer credit, inventory, subscriptions, search, and backups.\n- Refined business report and receipt exports.\n- Fixes to improve day-to-day workflows across Android and Windows.",
+  "mandatory": false
+}
