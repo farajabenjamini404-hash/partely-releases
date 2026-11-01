@@ -3,9 +3,9 @@
   "platform": "windows",
   "applicationId": "com.partely.desktop",
   "channel": "stable",
-  "version": "1.0.15",
-  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.4.9/Partely-1.0.15.msi",
-  "sha256": "5adec44862478cc9ca86ad5a38f6baa892e38b434d978bddc3fa827e23b14d01",
-  "releaseNotes": "Partely 1.4.9 for Android and 1.0.15 for Windows\n\n- Reliability and usability improvements across sales, customer credit, inventory, subscriptions, search, and backups.\n- Refined business report and receipt exports.\n- Fixes to improve day-to-day workflows across Android and Windows.",
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.5.0-rebuild-2026-11-01/Partely-1.1.0.msi",
+  "sha256": "9790cda793f819d1f754c5810c2717020b3524cce9f84298eaa41620a89ed039",
+  "releaseNotes": "Partely 1.5.0 for Android (build 15) and Partely 1.1.0 for Windows\n\n- Business reports follow the selected reporting period for period-based summaries and rankings.\n- Refined Windows subscription and inventory controls, including clearer payment information, plan selection, summary cards and filters.\n- Business profile details now distinguish business contact email from account email, and sync attention messages explain review actions.\n- Includes reliability and usability improvements across sales, customer credit, inventory, subscriptions, search, backups and report exports.",
   "mandatory": false
 }
