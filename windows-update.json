@@ -3,9 +3,9 @@
   "platform": "windows",
   "applicationId": "com.partely.desktop",
   "channel": "stable",
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.5.0-rebuild-2026-11-01/Partely-1.1.0.msi",
-  "sha256": "9790cda793f819d1f754c5810c2717020b3524cce9f84298eaa41620a89ed039",
-  "releaseNotes": "Partely 1.5.0 for Android (build 15) and Partely 1.1.0 for Windows\n\n- Business reports follow the selected reporting period for period-based summaries and rankings.\n- Refined Windows subscription and inventory controls, including clearer payment information, plan selection, summary cards and filters.\n- Business profile details now distinguish business contact email from account email, and sync attention messages explain review actions.\n- Includes reliability and usability improvements across sales, customer credit, inventory, subscriptions, search, backups and report exports.",
+  "version": "1.1.1",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.5.1/Partely-1.1.1.msi",
+  "sha256": "a01e828e368477a2f44614c4d0ed68d69daa1c04e99f4fba8569d9a5500fee52",
+  "releaseNotes": "Partely first customer release\nAndroid 1.5.1 (version code 16) · Windows 1.1.1\n\nThis release includes the customer, sales, inventory, subscription, navigation, and help improvements prepared for the first customer installation.\n\n- Credit sales now require a saved customer on both platforms. Historical sale identities remain visible and can be saved from the customer selector before use.\n- Sales steps block invalid navigation and show field-level errors. Credit due dates are required consistently, including partial payments.\n- Dashboard and reports count part records consistently; inventory rows continue to show each part's unit quantity.\n- Supplier Orders has its own Windows sidebar destination and full screen.\n- Subscription entitlements refresh when the screen opens, after renewal, and periodically while the app is foregrounded.\n- The Partely Windows Manual is bundled and available from Help & Support on Android and Windows.\n- Help Center guidance has been refreshed for the current sales and inventory workflows.\n- Removed the Android online/offline popup while retaining background connectivity handling.\n- The developer name shown in the app is CHIRA.",
   "mandatory": false
 }
