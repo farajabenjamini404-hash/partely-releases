@@ -4,7 +4,7 @@
   "applicationId": "com.partely.desktop",
   "channel": "stable",
   "version": "1.1.6",
-  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.1.6/Partely-1.1.6.msi",
+  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/Partely_Windows_v1.1.6/Partely-1.1.6.msi",
   "sha256": "66a23c47f234e091d8e09621de91ab8200ce601ff9ed82dadf1c576815b1fd41",
   "releaseNotes": "Partely update reliability release\nAndroid 1.5.3 (version code 19) · Windows 1.1.6\n\n- Update checks run immediately in a new app session and refresh every 15 minutes while the app is in use.\n- Update manifest requests revalidate cached responses, and missing release assets now show a clear download error.\n- Windows release notes can scroll while update actions remain available.\n- Inventory part names, vehicle makes, and vehicle models display in uppercase on Android and Windows. Saved values are unchanged.\n- Inventory save, opening stock, edit/restock, and rollback fixes are included, along with sales validation and receipt presentation improvements.",
   "mandatory": false
