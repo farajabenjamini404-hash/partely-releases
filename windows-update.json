@@ -4,8 +4,8 @@
   "applicationId": "com.partely.desktop",
   "channel": "stable",
   "version": "1.1.9",
-  "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/v1.5.8/Partely-1.1.9.msi",
+  "downloadUrl": "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/Partely_Windows_v1.1.9/Partely-1.1.9.msi",
   "sha256": "3ee95a5f553fadae86544a7469c145322e74417fc94f7e5dc6ad90c370df1a77",
-  "releaseNotes": "<the release notes above>",
+  "releaseNotes": "releaseNotes": "Partely 1.5.8 (Android) / 1.1.9 (Windows)\n\nPayment confirmation\n..."
   "mandatory": false
 }
