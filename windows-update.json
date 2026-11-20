@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
-  "platform": "windows",
-  "applicationId": "com.partely.desktop",
-  "channel": "stable",
-  "version": "1.1.9",
-  "downloadUrl": "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/Partely_Windows_v1.1.9/Partely-1.1.9.msi",
-  "sha256": "3ee95a5f553fadae86544a7469c145322e74417fc94f7e5dc6ad90c370df1a77",
-  "releaseNotes": "releaseNotes": "Partely 1.5.8 (Android) / 1.1.9 (Windows)\n\nPayment confirmation\n..."
-  "mandatory": false
+    "schemaVersion": 1,
+    "platform": "windows",
+    "applicationId": "com.partely.desktop",
+    "channel": "stable",
+    "version": "1.1.9",
+    "downloadUrl": "https://github.com/farajabenjamini404-hash/partely-releases/releases/download/Partely_Windows_v1.1.9/Partely-1.1.9.msi",
+    "sha256": "3ee95a5f553fadae86544a7469c145322e74417fc94f7e5dc6ad90c370df1a77",
+    "releaseNotes": "Partely 1.5.8 (Android) / 1.1.9 (Windows)\n\nPayment confirmation\n\n- \"I have paid\" now opens a confirmation form instead of submitting immediately.\n- Add the payer name, the method used, the amount actually paid and the payment date/time.\n- Supported methods: Airtel Money, M-Pesa, Mixx by Yas, HaloPesa and Bank transfer.\n- Bank transfer is shown as \"Bank transfer\", never as an internal code.\n- Attach a payment screenshot (JPG or PNG, up to 5 MB). This is optional.\n- The plan price comes from the server. The reported amount is stored for review and is never used to calculate entitlement.\n- Submitting creates a pending payment for review. It never activates a subscription automatically.\n- Retrying a failed submission is safe and does not create a duplicate.\n\nUpgrade notes\n\n- Android 1.5.8 (versionCode 22) installs over earlier releases with the same signing certificate.\n- Windows 1.1.9 installs over earlier releases with the same MSI UpgradeCode.",
+    "mandatory": false
 }
